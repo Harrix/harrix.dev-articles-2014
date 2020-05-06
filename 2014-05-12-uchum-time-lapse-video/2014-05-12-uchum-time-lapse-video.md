@@ -1,6 +1,6 @@
 ---
 categories: [video]
-tags: [Time-lapse, природа]
+tags: [Time-lapse, Природа]
 ---
 
 # Учум — Первое Time-lapse видео

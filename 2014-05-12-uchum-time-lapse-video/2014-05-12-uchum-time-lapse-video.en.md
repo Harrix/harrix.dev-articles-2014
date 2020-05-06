@@ -1,6 +1,6 @@
 ---
 categories: [video]
-tags: [Time-lapse, nature]
+tags: [Time-lapse, Nature]
 ---
 
 # Uchum — The first Timelapse video
