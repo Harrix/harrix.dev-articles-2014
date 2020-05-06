@@ -1,6 +1,6 @@
 ---
 categories: [it, web]
-tags: [GitHub, git]
+tags: [GitHub, Git]
 ---
 
 # Как скачать файлы с GitHub

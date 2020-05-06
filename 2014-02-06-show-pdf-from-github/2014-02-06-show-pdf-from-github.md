@@ -1,6 +1,6 @@
 ---
 categories: [it, web]
-tags: [CMS, Wordpress, git, GitHub, PDF]
+tags: [CMS, Wordpress, Git, GitHub, PDF]
 ---
 
 # Как показать в Wordpress документы PDF напрямую из GitHub
