@@ -1,6 +1,6 @@
 ---
 categories: [it, programming]
-tags: [Qt, SQL Server, SQL, База данных, C++]
+tags: [Qt, SQL Server, SQL, Базы данных, C++]
 ---
 
 # Как подключиться к базе данных в Microsoft SQL Server 2012 в Qt
