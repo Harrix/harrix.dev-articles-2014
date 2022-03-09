@@ -49,4 +49,4 @@ void MainWindow::saveAsCSV(QString filename)
 
 ![Открытый CSV файл](img/excel.png)
 
-В статье [Как вывести данные в QTableView в Qt](/blog/2014/output-data-to-qtableview) узнаете, как добавлять данные в QTableView.
+В статье [Как вывести данные в QTableView в Qt](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/2014-04-22-output-data-to-qtableview/2014-04-22-output-data-to-qtableview.md) узнаете, как добавлять данные в QTableView.

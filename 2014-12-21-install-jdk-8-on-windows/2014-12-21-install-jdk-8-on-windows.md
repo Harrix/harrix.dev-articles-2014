@@ -8,13 +8,13 @@ update: 2020-08-19
 
 Для программирования под Java и, в частности, при создании приложений под Android на компе требуется установка JDK (Java Development Kit). В статье рассказывается как это сделать.
 
-В статье рассматривается способ установки под Widows 10, но никакой разницы для других версий Windows не должно быть. Если вам нужна последняя версия JDK, то посмотрите эту [статью](/blog/2019/install-jdk-on-windows/).
+В статье рассматривается способ установки под Widows 10, но никакой разницы для других версий Windows не должно быть. Если вам нужна последняя версия JDK, то посмотрите эту [статью](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/2019-07-07-install-jdk-on-windows/2019-07-07-install-jdk-on-windows.md).
 
 Скачиваем и устанавливаем с официального сайта:
 
 <http://www.oracle.com/technetwork/java/javase/downloads/index.html>
 
-Сейчас на сайте уже есть Java 14 (на 08.2020). Но для Qt и других программ, использующих Java, по-прежнему рекомендую скачивать **Java 8** (в Android Studio уже можно использовать [Java 14](/blog/2019/install-jdk-on-windows/)):
+Сейчас на сайте уже есть Java 14 (на 08.2020). Но для Qt и других программ, использующих Java, по-прежнему рекомендую скачивать **Java 8** (в Android Studio уже можно использовать [Java 14](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/2019-07-07-install-jdk-on-windows/2019-07-07-install-jdk-on-windows.md)):
 
 ![Прокрутка окна ниже](img/download_01.png)
 
