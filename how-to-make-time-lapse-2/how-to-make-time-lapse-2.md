@@ -13,7 +13,7 @@ related-id: time-lapse
 
 **Что потребуется**: снимки, Lightroom.
 
-В [Как сделать Time-lapse видео. Часть 1 — Сбор материала](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/2014-03-14-how-to-make-time-lapse-1/2014-03-14-how-to-make-time-lapse-1.md) мы получили наши снимки. Теперь надо их обработать, перед тем, как будем их соединять в видео.
+В [Как сделать Time-lapse видео. Часть 1 — Сбор материала](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/how-to-make-time-lapse-1/how-to-make-time-lapse-1.md) мы получили наши снимки. Теперь надо их обработать, перед тем, как будем их соединять в видео.
 
 Итак, у нас есть множество фотографий (у меня получилось 250):
 
@@ -111,4 +111,4 @@ related-id: time-lapse
 
 ![Экспортируемые фотографии](img/lightroom_26.png)
 
-В Lightroom мы закончили работу! В [Как сделать Time-lapse видео. Часть 3 — Простая сборка видео](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/2014-03-16-how-to-make-time-lapse-3/2014-03-16-how-to-make-time-lapse-3.md) будем уже собирать видео.
+В Lightroom мы закончили работу! В [Как сделать Time-lapse видео. Часть 3 — Простая сборка видео](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/how-to-make-time-lapse-3/how-to-make-time-lapse-3.md) будем уже собирать видео.

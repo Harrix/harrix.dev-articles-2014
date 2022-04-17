@@ -12,7 +12,7 @@ update: 2018
 
 ## Установка JDK
 
-Вначале необходимо установить **JDK**. Всё просто, но если есть вопросы, то подробно можно узнать в статье: [Установка JDK в Windows](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/2019-07-07-install-jdk-on-windows/2019-07-07-install-jdk-on-windows.md).
+Вначале необходимо установить **JDK**. Всё просто, но если есть вопросы, то подробно можно узнать в статье: [Установка JDK в Windows](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/install-jdk-on-windows/install-jdk-on-windows.md).
 
 ## Скачивание Eclipse
 

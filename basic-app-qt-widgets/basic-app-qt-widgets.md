@@ -104,4 +104,4 @@ download: files/example.zip
 
 ![Запущенное приложение](img/run_03.png)
 
-В статье [Запуск Qt приложений .exe вне Qt Creator](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/2014-01-28-run-qt-app-exe-outside-qt/2014-01-28-run-qt-app-exe-outside-qt.md) рассказывается о том, как запустить приложение и его распространять в Qt. Это не очевидно, как кажется на первый взгляд.
+В статье [Запуск Qt приложений .exe вне Qt Creator](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/run-qt-app-exe-outside-qt/run-qt-app-exe-outside-qt.md) рассказывается о том, как запустить приложение и его распространять в Qt. Это не очевидно, как кажется на первый взгляд.

@@ -41,4 +41,4 @@ related-id: time-lapse
 
 Вот и всё! После этой нехитрой процедуры у вас наберется определенный набор фотографий.
 
-В [Как сделать Time-lapse видео. Часть 2 — Обработка файлов](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/2014-03-15-how-to-make-time-lapse-2/2014-03-15-how-to-make-time-lapse-2.md) части будем обрабатывать фотографии в Lightroom.
+В [Как сделать Time-lapse видео. Часть 2 — Обработка файлов](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/how-to-make-time-lapse-2/how-to-make-time-lapse-2.md) части будем обрабатывать фотографии в Lightroom.
