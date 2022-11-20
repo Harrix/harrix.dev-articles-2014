@@ -3,7 +3,7 @@ date: 2014-01-28
 categories: [it, programming]
 tags: [Qt, C++]
 related-id: start-qt
-download: files/example.zip
+download: https://github.com/Harrix/harrix.dev-blog-2014/raw/main/basic-app-qt-widgets/files/example.zip
 ---
 
 # Базовое приложение в Qt Widgets

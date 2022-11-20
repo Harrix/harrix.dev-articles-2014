@@ -2,7 +2,7 @@
 date: 2014-07-17
 categories: [it, photo]
 tags: [Обработка фотографии, Adobe Pixel Bender Toolkit]
-download: files/droste.zip
+download: https://github.com/Harrix/harrix.dev-blog-2014/raw/main/droste-effect/files/droste.zip
 ---
 
 # Как сделать эффект Дросте
