@@ -3,6 +3,8 @@ date: 2014-03-15
 categories: [it, photo]
 tags: [Time-lapse, Lightroom]
 related-id: time-lapse
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Как сделать Time-lapse видео. Часть 2 — Обработка файлов

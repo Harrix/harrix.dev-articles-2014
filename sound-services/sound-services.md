@@ -3,6 +3,8 @@ date: 2014-07-18
 categories: [it, web]
 tags: [Звуки, Музыка, Подборка, Сервисы]
 related-id: selection
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Подборка сервисов по издаванию звуков

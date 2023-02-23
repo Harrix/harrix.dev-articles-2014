@@ -2,6 +2,8 @@
 date: 2014-07-17
 categories: [it, web]
 tags: [CMS, ReadyScript 2, Интернет-магазин]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Небольшой FAQ по ReadyScript 2

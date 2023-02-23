@@ -4,6 +4,8 @@ categories: [it, web]
 tags: [CSS, HTML, SVG, Градиент]
 demo: https://codepen.io/Harrix/pen/ZqbpYb
 update: 2018-09
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Фон с радиальным градиентом c шумом для сайта

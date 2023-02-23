@@ -2,6 +2,8 @@
 date: 2014-12-14
 categories: [it, hardware]
 tags: [Dell, Ноутбук]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Boot menu в Dell Inspiron 5547

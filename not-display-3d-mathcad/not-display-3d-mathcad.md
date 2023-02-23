@@ -2,6 +2,8 @@
 date: 2014-04-17
 categories: [it, program]
 tags: [Mathcad, Математика]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Не отображаются 3D графики MathCAD

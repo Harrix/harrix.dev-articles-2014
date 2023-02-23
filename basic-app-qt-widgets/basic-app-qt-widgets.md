@@ -4,6 +4,8 @@ categories: [it, programming]
 tags: [Qt, C++]
 related-id: start-qt
 download: https://github.com/Harrix/harrix.dev-blog-2014/raw/main/basic-app-qt-widgets/files/example.zip
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Базовое приложение в Qt Widgets

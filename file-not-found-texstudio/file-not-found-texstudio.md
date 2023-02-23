@@ -2,6 +2,8 @@
 date: 2014-12-14
 categories: [it, tex]
 tags: [LaTeX]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Ошибка при загрузке пакетов в TeXstudio

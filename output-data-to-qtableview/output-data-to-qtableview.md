@@ -2,6 +2,8 @@
 date: 2014-04-22
 categories: [it, programming]
 tags: [Qt, Таблица, C++]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Как вывести данные в QTableView в Qt

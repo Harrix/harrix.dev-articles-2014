@@ -4,6 +4,8 @@ categories: [it, program]
 tags: [Установка, Eclipse, Java]
 related-id: start-java
 update: 2018
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Установка Eclipse в Windows

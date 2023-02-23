@@ -2,6 +2,8 @@
 date: 2014-05-08
 categories: [it, programming]
 tags: [Qt, MP3, C++, Работа с файлами]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Как проиграть MP3 файл в Qt

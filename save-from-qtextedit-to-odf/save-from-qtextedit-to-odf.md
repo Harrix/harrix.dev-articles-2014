@@ -2,6 +2,8 @@
 date: 2014-05-06
 categories: [it, programming]
 tags: [Qt, C++, Работа с файлами]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Как сохранить данные из QTextEdit в ODF

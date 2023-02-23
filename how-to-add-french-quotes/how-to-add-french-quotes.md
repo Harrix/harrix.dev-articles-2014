@@ -2,6 +2,8 @@
 date: 2014-05-25
 categories: [it, program]
 tags: [Punto Switcher]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Как быстро добавлять знаки «» при печати

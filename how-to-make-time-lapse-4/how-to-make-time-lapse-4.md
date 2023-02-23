@@ -4,6 +4,8 @@ categories: [it, photo]
 tags: [Time-lapse, Adobe After Effects, VirtualDub, Deflicker]
 related-id: time-lapse
 update: 2018
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Как сделать Time-lapse видео. Часть 4 — Сложная, но качественная сборка видео

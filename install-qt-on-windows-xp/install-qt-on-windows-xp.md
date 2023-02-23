@@ -2,6 +2,8 @@
 date: 2014-02-02
 categories: [it, program]
 tags: [Установка, Qt, MinGW]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Установка Qt 4.8.4 на Windows XP

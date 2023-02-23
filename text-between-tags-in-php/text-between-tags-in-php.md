@@ -2,6 +2,8 @@
 date: 2014-03-02
 categories: [it, web]
 tags: [Wordpress, PHP]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Функция изменения текста между тэгами в PHP

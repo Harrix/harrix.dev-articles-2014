@@ -3,6 +3,8 @@ date: 2014-12-21
 categories: [it, program]
 tags: [Установка, Java, Android]
 update: 2020-08-19
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Установка JDK 8 в Windows

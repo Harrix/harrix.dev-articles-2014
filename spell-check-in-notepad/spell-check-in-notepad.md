@@ -3,6 +3,8 @@ date: 2014-01-04
 categories: [it, program]
 tags: [Notepad++, Текстовой редактор, Проверка орфографии]
 update: 2020-08-18
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Проверка орфографии в Notepad++

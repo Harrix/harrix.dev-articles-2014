@@ -2,6 +2,8 @@
 date: 2014-12-16
 categories: [it, program]
 tags: [Notepad++, Текстовой редактор]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Как удалить каждую вторую строку в Notepad++

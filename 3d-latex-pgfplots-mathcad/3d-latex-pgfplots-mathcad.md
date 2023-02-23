@@ -3,6 +3,8 @@ date: 2014-01-23
 categories: [it, tex]
 tags: [LaTeX]
 update: 2018
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # 3D графики в LaTeX пакетом pgfplots в стиле MathCAD

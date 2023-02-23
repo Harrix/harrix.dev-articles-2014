@@ -3,6 +3,8 @@ date: 2014-07-18
 categories: [it, web]
 tags: [Обработка фотографии, Рисование, Подборка, Сервисы]
 related-id: selection
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Подборка сервисов по работе и генерации изображений

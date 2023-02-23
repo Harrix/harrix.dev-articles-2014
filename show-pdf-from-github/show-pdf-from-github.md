@@ -2,6 +2,8 @@
 date: 2014-02-06
 categories: [it, web]
 tags: [CMS, Wordpress, Git, GitHub, PDF]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Как показать в Wordpress документы PDF напрямую из GitHub

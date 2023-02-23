@@ -3,6 +3,8 @@ date: 2014-01-26
 categories: [it, web]
 tags: [GitHub, Git]
 update: 2021-08-22
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Как скачать файлы с GitHub
