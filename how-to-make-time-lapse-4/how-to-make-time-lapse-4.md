@@ -6,6 +6,8 @@ related-id: time-lapse
 update: 2018
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
+license: CC BY 4.0
+license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 ---
 
 # Как сделать Time-lapse видео. Часть 4 — Сложная, но качественная сборка видео

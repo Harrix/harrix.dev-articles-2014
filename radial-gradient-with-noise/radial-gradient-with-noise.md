@@ -6,6 +6,8 @@ demo: https://codepen.io/Harrix/pen/ZqbpYb
 update: 2018-09
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
+license: CC BY 4.0
+license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 ---
 
 # Фон с радиальным градиентом c шумом для сайта

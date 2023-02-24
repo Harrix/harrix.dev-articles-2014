@@ -6,6 +6,8 @@ related-id: start-qt
 download: https://github.com/Harrix/harrix.dev-blog-2014/raw/main/basic-app-qt-widgets/files/example.zip
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
+license: CC BY 4.0
+license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 ---
 
 # Базовое приложение в Qt Widgets

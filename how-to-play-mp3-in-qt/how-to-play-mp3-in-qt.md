@@ -4,6 +4,8 @@ categories: [it, programming]
 tags: [Qt, MP3, C++, Работа с файлами]
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
+license: CC BY 4.0
+license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 ---
 
 # Как проиграть MP3 файл в Qt
