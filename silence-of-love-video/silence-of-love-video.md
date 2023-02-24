@@ -7,6 +7,7 @@ author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2014/blob/main/silence-of-love-video/silence-of-love-video.md
+url: https://harrix.dev/ru/blog/2014/silence-of-love-video/
 ---
 
 # Silence of Love — видео
