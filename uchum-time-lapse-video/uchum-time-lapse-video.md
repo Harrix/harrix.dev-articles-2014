@@ -6,6 +6,7 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
+url-src: https://github.com/Harrix/harrix.dev-blog-2014/blob/main/uchum-time-lapse-video/uchum-time-lapse-video.md
 ---
 
 # Учум — Первое Time-lapse видео

@@ -6,6 +6,7 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
+url-src: https://github.com/Harrix/harrix.dev-blog-2014/blob/main/not-display-3d-mathcad/not-display-3d-mathcad.md
 ---
 
 # Не отображаются 3D графики MathCAD
