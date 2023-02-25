@@ -73,3 +73,5 @@ ui->tableView->resizeColumnsToContents();
 При нажатии на кнопку получим вот это:
 
 ![Таблица с данными](img/table.png)
+
+_Рисунок 1 — Таблица с данными_

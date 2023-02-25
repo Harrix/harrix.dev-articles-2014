@@ -45,8 +45,12 @@ else {
 
 ![Текст в QTextEdit](img/textedit.png)
 
+_Рисунок 1 — Текст в QTextEdit_
+
 При сохранении получили это:
 
 ![Открытый ODF документ](img/result.png)
+
+_Рисунок 2 — Открытый ODF документ_
 
 Про формат ODF читать [тут](https://ru.wikipedia.org/wiki/OpenDocument). А тут можно скачать <https://www.openoffice.org/ru/download/index.html>.

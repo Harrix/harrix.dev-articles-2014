@@ -42,6 +42,8 @@ gdefjfsdjfdj@mail.ru
 
 ![Настройки замены](img/replace.png)
 
+_Рисунок 1 — Настройки замены_
+
 И нажмите `Заменить всё`. Повторяющиеся строки удаляться. Но при этом останутся не первые варианты строк, а последние повторы.
 
 ## Второй способ
@@ -56,21 +58,31 @@ gdefjfsdjfdj@mail.ru
 
 ![Выделение всего текста](img/select-all.png)
 
+_Рисунок 2 — Выделение всего текста_
+
 Вставьте номера строкам: `TextFX` → `TextFX Tools` → `Insert Line Numbers`:
 
 ![Insert Line Numbers](img/insert-line-numbers.png)
+
+_Рисунок 3 — Insert Line Numbers_
 
 Если стоит флажок `TextFX` → `TextFX Tools` → `+Sort ascending`, то его убрать:
 
 ![Команда +Sort ascending](img/sort-ascending.png)
 
+_Рисунок 4 — Команда +Sort ascending_
+
 Отсортируем строки `TextFX` → `TextFX Tools` → `Sort lines case sensitive (at column)`:
 
 ![Sort lines case sensitive (at column)](img/sort-lines-case-sensitive.png)
 
+_Рисунок 5 — Sort lines case sensitive (at column)_
+
 Удаляем номера строк `TextFX` → `TextFX Tools` → `Delete Line Numbers or First Word`:
 
 ![Delete Line Numbers or First Word](img/delete-line-numbers.png)
+
+_Рисунок 6 — Delete Line Numbers or First Word_
 
 Потом используем первый способ для удаление повторяющихся строк. А потом обратно меняем порядок строк.
 

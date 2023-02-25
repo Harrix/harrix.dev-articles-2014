@@ -21,9 +21,13 @@ lang: ru
 
 ![File not found](img/file-not-found_01.png)
 
+_Рисунок 1 — File not found_
+
 Когда пытаемся скомпилировать файл в TeXstudio, то выдается такое окошко, что пакетов не хватает:
 
 ![Package Installation](img/package-installation.png)
+
+_Рисунок 2 — Package Installation_
 
 ## Вариант 1
 
@@ -31,13 +35,19 @@ lang: ru
 
 ![Кнопка Change](img/change.png)
 
+_Рисунок 3 — Кнопка Change_
+
 Выбираем подключение по интернету:
 
 ![Installation Source](img/installation-source_01.png)
 
+_Рисунок 4 — Installation Source_
+
 И выбираем сервер с стандартными пакетами. Я выбрал первый. Если он вдруг не будет работать, то выберете потом другой:
 
 ![Выбор сервера](img/installation-source_02.png)
+
+_Рисунок 5 — Выбор сервера_
 
 При таких настройках загрузка пакетов происходит успешно. Напоминаю, что загрузка пакетов может занимать какое-то время.
 
@@ -47,18 +57,26 @@ lang: ru
 
 ![File not found](img/file-not-found_02.png)
 
+_Рисунок 6 — File not found_
+
 Установим пакет принудительно.
 
 Через пуск находим `MikTex Console`:
 
 ![MikTex Console](img/miktex-console_01.png)
 
+_Рисунок 7 — MikTex Console_
+
 И перезапускаем его под администратором:
 
 ![MikTex Console](img/miktex-console_02.png)
 
+_Рисунок 8 — MikTex Console_
+
 В разделе `Packages` находим нужный пакет, щелкаем по нему правой кнопкой и устанавливаем его:
 
 ![MikTex Console](img/miktex-console_03.png)
+
+_Рисунок 9 — MikTex Console_
 
 Пытаетесь перекомпилировать ваш документ. Если еще какие-то пакеты попросит, то тоже их установите аналогичным способом.

@@ -56,4 +56,6 @@ file="https://raw.githubusercontent.com/Harrix/Standard-Genetic-Algorithm/master
 
 ![Внешний вид PDF в Wordpress](img/result.png)
 
+_Рисунок 1 — Внешний вид PDF в Wordpress_
+
 Вот и всё!
