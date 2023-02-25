@@ -15,6 +15,8 @@ lang: ru
 
 # Установка Eclipse в Windows
 
+![Featured image](featured-image.svg)
+
 В статье рассказывается, как установить Eclipse.
 
 ## Установка JDK

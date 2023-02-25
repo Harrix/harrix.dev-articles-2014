@@ -14,6 +14,8 @@ lang: ru
 
 # 3D графики в LaTeX пакетом pgfplots в стиле MathCAD
 
+![Featured image](featured-image.svg)
+
 Рассказано, как делать 3D графики в LaTeX файлах с помощью пакета pgfplots так, чтобы они были похожи на графики из MathCAD. Мне нравится такая цветовая схема как MathCAD, вот и решил попробовать.
 
 ## Решение

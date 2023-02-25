@@ -15,6 +15,8 @@ lang: ru
 
 # Базовое приложение в Qt Widgets
 
+![Featured image](featured-image.svg)
+
 В статье показан пример создания простейшего приложения в режиме Qt Widgets.
 
 В качестве среды для разработки используется Qt 5.2.0 for Windows 32-bit (MinGW 4.8). Скачать можно тут <https://www.qt.io/download>.

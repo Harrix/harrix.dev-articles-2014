@@ -13,6 +13,8 @@ lang: ru
 
 # Как вывести данные в QTableView в Qt
 
+![Featured image](featured-image.svg)
+
 Небольшая шпаргалка как добавить данные в таблицу QTableView в Qt.
 
 Подключите эти библиотеки:

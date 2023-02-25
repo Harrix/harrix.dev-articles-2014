@@ -13,6 +13,8 @@ lang: ru
 
 # Silence of Love — видео
 
+![Featured image](featured-image.svg)
+
 <https://www.youtube.com/watch?v=rwISnBtx5_0>
 
 Моё видео 2012 года.

@@ -13,6 +13,8 @@ lang: ru
 
 # Созерцание — видео
 
+![Featured image](featured-image.svg)
+
 <https://www.youtube.com/watch?v=aqG6w_uYxiE>
 
 Моё видео с Учума 2013 года.

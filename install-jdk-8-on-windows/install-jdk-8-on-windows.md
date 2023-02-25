@@ -14,6 +14,8 @@ lang: ru
 
 # Установка JDK 8 в Windows
 
+![Featured image](featured-image.svg)
+
 Для программирования под Java и, в частности, при создании приложений под Android на компе требуется установка JDK (Java Development Kit). В статье рассказывается как это сделать.
 
 В статье рассматривается способ установки под Widows 10, но никакой разницы для других версий Windows не должно быть. Если вам нужна последняя версия JDK, то посмотрите эту [статью](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/install-jdk-on-windows/install-jdk-on-windows.md).

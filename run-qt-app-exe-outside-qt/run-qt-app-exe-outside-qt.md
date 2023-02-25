@@ -15,6 +15,8 @@ lang: ru
 
 # Запуск Qt приложений .exe вне Qt Creator
 
+![Featured image](featured-image.svg)
+
 В статье рассказывается как запускать приложения, созданные в Qt без самого Qt Creator. Или же приложения должны запускаться на компах, где нет Qt.
 
 Для версии Qt под компилятор Visual Studio статья [Запуск Qt приложений под Visual Studio .exe вне Qt Creator](https://github.com/Harrix/harrix.dev-blog-2016/blob/main/run-qt-vs-app-exe-outside-qt/run-qt-vs-app-exe-outside-qt.md).
