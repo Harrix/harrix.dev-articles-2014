@@ -9,6 +9,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2014/blob/main/3d-latex-pgfplots-mathcad/3d-latex-pgfplots-mathcad.md
 url: https://harrix.dev/ru/blog/2014/3d-latex-pgfplots-mathcad/
+lang: ru
 ---
 
 # 3D графики в LaTeX пакетом pgfplots в стиле MathCAD

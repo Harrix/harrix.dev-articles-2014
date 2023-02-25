@@ -9,6 +9,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2014/blob/main/how-to-make-time-lapse-3/how-to-make-time-lapse-3.md
 url: https://harrix.dev/ru/blog/2014/how-to-make-time-lapse-3/
+lang: ru
 ---
 
 # Как сделать Time-lapse видео. Часть 3 — Простая сборка видео

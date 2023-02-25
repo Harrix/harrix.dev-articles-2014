@@ -8,6 +8,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2014/blob/main/remove-duplicate-lines/remove-duplicate-lines.md
 url: https://harrix.dev/ru/blog/2014/remove-duplicate-lines/
+lang: ru
 ---
 
 # Удаление дублирующих строк в Notepad++
