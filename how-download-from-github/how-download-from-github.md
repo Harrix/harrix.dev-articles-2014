@@ -11,13 +11,10 @@ permalink-source: https://github.com/Harrix/harrix.dev-blog-2014/blob/main/how-d
 permalink: https://harrix.dev/ru/blog/2014/how-download-from-github/
 lang: ru
 attribution:
-  - author: GitHub
-    author-site: https://github.com
-    comment: Use the Octocat or GitHub logo in a blog post or news article about GitHub
-    license-url: https://github.com/logos
-    permalink: https://github.com/logos
-    permalink-date: 2019-03-18
-    name: GitHub Logo
+- {author: GitHub, author-site: 'https://github.com', comment: Use the Octocat or
+    GitHub logo in a blog post or news article about GitHub, license-url: 'https://github.com/logos',
+  permalink: 'https://github.com/logos', permalink-date: 2019-03-18, name: GitHub
+    Logo}
 ---
 
 # Как скачать файлы с GitHub
