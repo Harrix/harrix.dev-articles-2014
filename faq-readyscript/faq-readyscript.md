@@ -7,7 +7,7 @@ author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2014/blob/main/faq-readyscript/faq-readyscript.md
-url: https://harrix.dev/ru/blog/2014/faq-readyscript/
+permalink: https://harrix.dev/ru/blog/2014/faq-readyscript/
 lang: ru
 ---
 
