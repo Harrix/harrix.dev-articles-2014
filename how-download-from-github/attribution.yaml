@@ -1,9 +1,9 @@
 attribution:
-- author: GitHub
-  author-site: https://github.com
-  comment: Use the Octocat or GitHub logo in a blog post or news article about GitHub
-  license: ''
-  license-url: https://github.com/logos
-  permalink: https://github.com/logos
-  permalink-date: '2019-03-18'
-  title: GitHub Logo
+  - author: GitHub
+    author-site: https://github.com
+    comment: Use the Octocat or GitHub logo in a blog post or news article about GitHub
+    license: ""
+    license-url: https://github.com/logos
+    permalink: https://github.com/logos
+    permalink-date: "2019-03-18"
+    name: GitHub Logo
