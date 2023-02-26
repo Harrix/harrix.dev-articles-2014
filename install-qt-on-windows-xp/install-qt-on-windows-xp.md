@@ -9,6 +9,14 @@ license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 permalink-source: https://github.com/Harrix/harrix.dev-blog-2014/blob/main/install-qt-on-windows-xp/install-qt-on-windows-xp.md
 permalink: https://harrix.dev/ru/blog/2014/install-qt-on-windows-xp/
 lang: ru
+attribution:
+  - author: Qt Project
+    author-site: https://www.qt.io
+    license: Public domain
+    license-url: https://en.wikipedia.org/wiki/Public_domain
+    permalink: https://commons.wikimedia.org/wiki/File:Qt_logo_2016.svg
+    permalink-date: 2019-01-26
+    name: Qt logo 2016.svg
 ---
 
 # Установка Qt 4.8.4 на Windows XP

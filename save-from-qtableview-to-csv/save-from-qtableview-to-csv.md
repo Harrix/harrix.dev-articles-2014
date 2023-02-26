@@ -9,6 +9,14 @@ license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 permalink-source: https://github.com/Harrix/harrix.dev-blog-2014/blob/main/save-from-qtableview-to-csv/save-from-qtableview-to-csv.md
 permalink: https://harrix.dev/ru/blog/2014/save-from-qtableview-to-csv/
 lang: ru
+attribution:
+  - author: Christlich Soziale Volkspartei
+    author-site: https://de.wikipedia.org/wiki/Christlich_Soziale_Volkspartei
+    license: Public domain
+    license-url: https://en.wikipedia.org/wiki/Public_domain
+    permalink: https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:CSV_Logo.svg
+    permalink-date: 2019-03-24
+    name: CSV Logo.svg
 ---
 
 # Как сохранять из QTableView данные в CSV формат
