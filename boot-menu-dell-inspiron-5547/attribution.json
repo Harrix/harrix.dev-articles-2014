@@ -1,11 +1,13 @@
-[
+{
+"attribution":[
   {
     "title": "Dell Logo.svg",
-    "url": "https://commons.wikimedia.org/wiki/File:Dell_Logo.svg",
-    "urlDate": "2019-06-06",
+    "permalink": "https://commons.wikimedia.org/wiki/File:Dell_Logo.svg",
+    "permalink-date": "2019-06-06",
     "author": "Dell",
-    "authorUrl": "https://www.dell.com/",
+    "author-site": "https://www.dell.com/",
     "license": "Public domain",
-    "licenseUrl": "https://en.wikipedia.org/wiki/Public_domain"
+    "license-url": "https://en.wikipedia.org/wiki/Public_domain"
   }
 ]
+}

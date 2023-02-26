@@ -1,21 +1,23 @@
-[
+{
+"attribution":[
   {
     "title": "GitHub Logo",
-    "url": "https://github.com/logos",
-    "urlDate": "2019-03-18",
+    "permalink": "https://github.com/logos",
+    "permalink-date": "2019-03-18",
     "author": "GitHub",
-    "authorUrl": "https://github.com",
+    "author-site": "https://github.com",
     "license": "",
-    "licenseUrl": "https://github.com/logos",
+    "license-url": "https://github.com/logos",
     "comment": "Use the Octocat or GitHub logo in a blog post or news article about GitHub"
   },
   {
     "title": "Wordpress-Logo.svg",
-    "url": "https://commons.wikimedia.org/wiki/File:Wordpress-Logo.svg",
-    "urlDate": "2019-03-17",
+    "permalink": "https://commons.wikimedia.org/wiki/File:Wordpress-Logo.svg",
+    "permalink-date": "2019-03-17",
     "author": "WordPress",
-    "authorUrl": "https://wordpress.org/",
+    "author-site": "https://wordpress.org/",
     "license": "GNU General Public License",
-    "licenseUrl": "https://en.wikipedia.org/wiki/GNU_General_Public_License"
+    "license-url": "https://en.wikipedia.org/wiki/GNU_General_Public_License"
   }
 ]
+}
