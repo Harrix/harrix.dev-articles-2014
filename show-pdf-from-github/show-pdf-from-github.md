@@ -10,14 +10,27 @@ permalink-source: https://github.com/Harrix/harrix.dev-blog-2014/blob/main/show-
 permalink: https://harrix.dev/ru/blog/2014/show-pdf-from-github/
 lang: ru
 attribution:
-- {author: GitHub, author-site: 'https://github.com', comment: Use the Octocat or
-    GitHub logo in a blog post or news article about GitHub, license-url: 'https://github.com/logos',
-  permalink: 'https://github.com/logos', permalink-date: 2019-03-18, name: GitHub
-    Logo}
-- {author: WordPress, author-site: 'https://wordpress.org/', license: GNU General
-    Public License, license-url: 'https://en.wikipedia.org/wiki/GNU_General_Public_License',
-  permalink: 'https://commons.wikimedia.org/wiki/File:Wordpress-Logo.svg', permalink-date: 2019-03-17,
-  name: Wordpress-Logo.svg}
+  - {
+      author: GitHub,
+      author-site: "https://github.com",
+      comment: Use the Octocat or
+        GitHub logo in a blog post or news article about GitHub,
+      license-url: "https://github.com/logos",
+      permalink: "https://github.com/logos",
+      permalink-date: 2019-03-18,
+      name: GitHub
+        Logo,
+    }
+  - {
+      author: WordPress,
+      author-site: "https://wordpress.org/",
+      license: GNU General
+        Public License,
+      license-url: "https://en.wikipedia.org/wiki/GNU_General_Public_License",
+      permalink: "https://commons.wikimedia.org/wiki/File:Wordpress-Logo.svg",
+      permalink-date: 2019-03-17,
+      name: Wordpress-Logo.svg,
+    }
 ---
 
 # Как показать в Wordpress документы PDF напрямую из GitHub

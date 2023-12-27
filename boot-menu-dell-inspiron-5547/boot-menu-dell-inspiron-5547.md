@@ -10,9 +10,15 @@ permalink-source: https://github.com/Harrix/harrix.dev-blog-2014/blob/main/boot-
 permalink: https://harrix.dev/ru/blog/2014/boot-menu-dell-inspiron-5547/
 lang: ru
 attribution:
-- {author: Dell, author-site: 'https://www.dell.com/', license: Public domain, license-url: 'https://en.wikipedia.org/wiki/Public_domain',
-  permalink: 'https://commons.wikimedia.org/wiki/File:Dell_Logo.svg', permalink-date: 2019-06-06,
-  name: Dell Logo.svg}
+  - {
+      author: Dell,
+      author-site: "https://www.dell.com/",
+      license: Public domain,
+      license-url: "https://en.wikipedia.org/wiki/Public_domain",
+      permalink: "https://commons.wikimedia.org/wiki/File:Dell_Logo.svg",
+      permalink-date: 2019-06-06,
+      name: Dell Logo.svg,
+    }
 ---
 
 # Boot menu в Dell Inspiron 5547
