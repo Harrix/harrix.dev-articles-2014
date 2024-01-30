@@ -6,8 +6,8 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2014/blob/main/save-from-qtableview-to-csv/save-from-qtableview-to-csv.md
-permalink: https://harrix.dev/ru/blog/2014/save-from-qtableview-to-csv/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2014/blob/main/save-from-qtableview-to-csv/save-from-qtableview-to-csv.md
+permalink: https://harrix.dev/ru/articles/2014/save-from-qtableview-to-csv/
 lang: ru
 attribution:
   - {
@@ -73,4 +73,4 @@ _Рисунок 1 — Таблица с данными в Qt_
 
 _Рисунок 2 — Открытый CSV файл_
 
-В статье [Как вывести данные в QTableView в Qt](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/output-data-to-qtableview/output-data-to-qtableview.md) <!-- https://harrix.dev/ru/blog/2014/output-data-to-qtableview/ --> узнаете, как добавлять данные в QTableView.
+В статье [Как вывести данные в QTableView в Qt](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/output-data-to-qtableview/output-data-to-qtableview.md) <!-- https://harrix.dev/ru/articles/2014/output-data-to-qtableview/ --> узнаете, как добавлять данные в QTableView.

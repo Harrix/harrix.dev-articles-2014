@@ -6,8 +6,8 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2014/blob/main/install-qt-on-windows-xp/install-qt-on-windows-xp.md
-permalink: https://harrix.dev/ru/blog/2014/install-qt-on-windows-xp/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2014/blob/main/install-qt-on-windows-xp/install-qt-on-windows-xp.md
+permalink: https://harrix.dev/ru/articles/2014/install-qt-on-windows-xp/
 lang: ru
 attribution:
   - {

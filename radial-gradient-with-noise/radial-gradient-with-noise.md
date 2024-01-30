@@ -8,8 +8,8 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2014/blob/main/radial-gradient-with-noise/radial-gradient-with-noise.md
-permalink: https://harrix.dev/ru/blog/2014/radial-gradient-with-noise/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2014/blob/main/radial-gradient-with-noise/radial-gradient-with-noise.md
+permalink: https://harrix.dev/ru/articles/2014/radial-gradient-with-noise/
 lang: ru
 ---
 
@@ -168,10 +168,7 @@ background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPoAAAD6BAM
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <title>Radial gradient and noise</title>
     <link rel="stylesheet" type="text/css" href="css/normalize.css" />
     <link rel="stylesheet" type="text/css" href="css/main.css" />
@@ -466,10 +463,7 @@ background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <title>Radial gradient and noise</title>
     <link rel="stylesheet" type="text/css" href="css/normalize.css" />
     <link rel="stylesheet" type="text/css" href="css/main.css" />

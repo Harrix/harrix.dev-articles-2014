@@ -7,8 +7,8 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2014/blob/main/how-to-make-time-lapse-3/how-to-make-time-lapse-3.md
-permalink: https://harrix.dev/ru/blog/2014/how-to-make-time-lapse-3/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2014/blob/main/how-to-make-time-lapse-3/how-to-make-time-lapse-3.md
+permalink: https://harrix.dev/ru/articles/2014/how-to-make-time-lapse-3/
 lang: ru
 ---
 
@@ -22,7 +22,7 @@ lang: ru
 
 **Что потребуется**: снимки, Adobe Premiere.
 
-В статье [Как сделать Time-lapse видео. Часть 2 — Обработка файлов](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/how-to-make-time-lapse-2/how-to-make-time-lapse-2.md) <!-- https://harrix.dev/ru/blog/2014/how-to-make-time-lapse-2/ --> мы получили обработанные снимки в Lightroom, из которых можно уже собирать видео. Чем мы сейчас и займемся. В данной части мы соберем простейшее вариант видео. Он подойдет в случаях, если кадры без всяких артефактов, снимались не в автоматическом режиме, без дрожания камеры — в идеальных условиях.
+В статье [Как сделать Time-lapse видео. Часть 2 — Обработка файлов](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/how-to-make-time-lapse-2/how-to-make-time-lapse-2.md) <!-- https://harrix.dev/ru/articles/2014/how-to-make-time-lapse-2/ --> мы получили обработанные снимки в Lightroom, из которых можно уже собирать видео. Чем мы сейчас и займемся. В данной части мы соберем простейшее вариант видео. Он подойдет в случаях, если кадры без всяких артефактов, снимались не в автоматическом режиме, без дрожания камеры — в идеальных условиях.
 
 ## Сбор видео в Adobe Premiere CS6
 
@@ -170,4 +170,4 @@ _Рисунок 23 — Выбор пункта «Match Sequence Settings»_
 
 Видео получилось уж очень не ахти: как будто это старое кино с кинопленки: куча помех: насекомые, камера дрожит, яркость мигает.
 
-В [Как сделать Time-lapse видео. Часть 4 — Сложная, но качественная сборка видео](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/how-to-make-time-lapse-4/how-to-make-time-lapse-4.md) <!-- https://harrix.dev/ru/blog/2014/how-to-make-time-lapse-4/ --> будем избавляться от этих недостатков.
+В [Как сделать Time-lapse видео. Часть 4 — Сложная, но качественная сборка видео](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/how-to-make-time-lapse-4/how-to-make-time-lapse-4.md) <!-- https://harrix.dev/ru/articles/2014/how-to-make-time-lapse-4/ --> будем избавляться от этих недостатков.

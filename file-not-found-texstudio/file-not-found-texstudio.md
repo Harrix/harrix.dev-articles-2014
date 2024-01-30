@@ -6,8 +6,8 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2014/blob/main/file-not-found-texstudio/file-not-found-texstudio.md
-permalink: https://harrix.dev/ru/blog/2014/file-not-found-texstudio/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2014/blob/main/file-not-found-texstudio/file-not-found-texstudio.md
+permalink: https://harrix.dev/ru/articles/2014/file-not-found-texstudio/
 lang: ru
 ---
 
@@ -17,7 +17,7 @@ lang: ru
 
 В статье рассказывается, как в TeXstudio (точнее проблема вызывается в MiKTeX) решить проблему с отсутствием загрузки пакетов типа: `` File `cmap.sty' not found ``. Вместо пакета `cmap.sty` у вас может быть ошибка с другим пакетом.
 
-Столкнулся с проблемой, когда недавно купил новый ноут с Windows 8.1, и там надо было восстановить всю инфраструктуру, что была на предыдущем ноуте. В том числе надо было [восстановить](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/install-latex/install-latex.md) <!-- https://harrix.dev/ru/blog/2018/install-latex/ --> связку MiKTeX + TeXstudio. Но при попытке первой компиляции файлов с использованием различных пакетов, столкнулся с тем, что MiKTeX не подгружает пакеты, хотя и должен:
+Столкнулся с проблемой, когда недавно купил новый ноут с Windows 8.1, и там надо было восстановить всю инфраструктуру, что была на предыдущем ноуте. В том числе надо было [восстановить](https://github.com/Harrix/harrix.dev-articles-2018/blob/main/install-latex/install-latex.md) <!-- https://harrix.dev/ru/articles/2018/install-latex/ --> связку MiKTeX + TeXstudio. Но при попытке первой компиляции файлов с использованием различных пакетов, столкнулся с тем, что MiKTeX не подгружает пакеты, хотя и должен:
 
 ![File not found](img/file-not-found_01.png)
 

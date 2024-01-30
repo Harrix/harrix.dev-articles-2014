@@ -6,8 +6,8 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2014/blob/main/delete-every-second-line/delete-every-second-line.md
-permalink: https://harrix.dev/ru/blog/2014/delete-every-second-line/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2014/blob/main/delete-every-second-line/delete-every-second-line.md
+permalink: https://harrix.dev/ru/articles/2014/delete-every-second-line/
 lang: ru
 ---
 

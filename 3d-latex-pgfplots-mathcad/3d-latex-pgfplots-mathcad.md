@@ -7,8 +7,8 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2014/blob/main/3d-latex-pgfplots-mathcad/3d-latex-pgfplots-mathcad.md
-permalink: https://harrix.dev/ru/blog/2014/3d-latex-pgfplots-mathcad/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2014/blob/main/3d-latex-pgfplots-mathcad/3d-latex-pgfplots-mathcad.md
+permalink: https://harrix.dev/ru/articles/2014/3d-latex-pgfplots-mathcad/
 lang: ru
 ---
 
@@ -36,7 +36,7 @@ lang: ru
 }
 ```
 
-В статье [Установка и настройка программ для редактирования LaTeX файлов](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/install-latex/install-latex.md) <!-- https://harrix.dev/ru/blog/2018/install-latex/ --> прочитайте, если надо, про установку всех нужных программ для работы с LaTeX.
+В статье [Установка и настройка программ для редактирования LaTeX файлов](https://github.com/Harrix/harrix.dev-articles-2018/blob/main/install-latex/install-latex.md) <!-- https://harrix.dev/ru/articles/2018/install-latex/ --> прочитайте, если надо, про установку всех нужных программ для работы с LaTeX.
 
 ## Примеры
 

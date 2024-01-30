@@ -7,8 +7,8 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2014/blob/main/qtscript/qtscript.md
-permalink: https://harrix.dev/ru/blog/2014/qtscript/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2014/blob/main/qtscript/qtscript.md
+permalink: https://harrix.dev/ru/articles/2014/qtscript/
 lang: ru
 ---
 
@@ -18,7 +18,7 @@ lang: ru
 
 Возникла потребность в интерпретаторе простых функций в среде Qt. Например, у вас программа, где пользователь может сам ввести свою функцию, которая что-то считает (например, sin(x)). Как быть? В Qt есть хороший встроенный язык QtScript как раз для этих нужд. Единственно, что синтаксис у него под JavaScript, хотя мне больше по душе был бы C++, но ладно.
 
-**Внимание!** QtScript — **устарел**! Вместо него надо использовать **QJSEngine**. В статье [Интерпретатор функций в Qt — QJSEngine](https://github.com/Harrix/harrix.dev-blog-2016/blob/main/qjsengine/qjsengine.md) <!-- https://harrix.dev/ru/blog/2016/qjsengine/ --> про него рассказываются вещи, аналогичные в данной статье для QtScript.
+**Внимание!** QtScript — **устарел**! Вместо него надо использовать **QJSEngine**. В статье [Интерпретатор функций в Qt — QJSEngine](https://github.com/Harrix/harrix.dev-articles-2016/blob/main/qjsengine/qjsengine.md) <!-- https://harrix.dev/ru/articles/2016/qjsengine/ --> про него рассказываются вещи, аналогичные в данной статье для QtScript.
 
 При написании статьи и изучении материала использовалась статья <https://pro-prof.com/archives/1316>.
 

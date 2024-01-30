@@ -3,13 +3,13 @@ date: 2014-01-28
 categories: [it, programming]
 tags: [Qt, C++]
 related-id: start-qt
-download: https://github.com/Harrix/harrix.dev-blog-2014/raw/main/basic-app-qt-widgets/files/example.zip
+download: https://github.com/Harrix/harrix.dev-articles-2014/raw/main/basic-app-qt-widgets/files/example.zip
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2014/blob/main/basic-app-qt-widgets/basic-app-qt-widgets.md
-permalink: https://harrix.dev/ru/blog/2014/basic-app-qt-widgets/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2014/blob/main/basic-app-qt-widgets/basic-app-qt-widgets.md
+permalink: https://harrix.dev/ru/articles/2014/basic-app-qt-widgets/
 lang: ru
 ---
 
@@ -157,4 +157,4 @@ _Рисунок 21 — Изменение режима компилирован�
 
 _Рисунок 22 — Запущенное приложение_
 
-В статье [Запуск Qt приложений .exe вне Qt Creator](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/run-qt-app-exe-outside-qt/run-qt-app-exe-outside-qt.md) <!-- https://harrix.dev/ru/blog/2014/run-qt-app-exe-outside-qt/ --> рассказывается о том, как запустить приложение и его распространять в Qt. Это не очевидно, как кажется на первый взгляд.
+В статье [Запуск Qt приложений .exe вне Qt Creator](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/run-qt-app-exe-outside-qt/run-qt-app-exe-outside-qt.md) <!-- https://harrix.dev/ru/articles/2014/run-qt-app-exe-outside-qt/ --> рассказывается о том, как запустить приложение и его распространять в Qt. Это не очевидно, как кажется на первый взгляд.
