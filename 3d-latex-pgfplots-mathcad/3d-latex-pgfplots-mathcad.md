@@ -36,7 +36,7 @@ lang: ru
 }
 ```
 
-В статье [Установка и настройка программ для редактирования LaTeX файлов](https://github.com/Harrix/harrix.dev-articles-2018/blob/main/install-latex/install-latex.md) <!-- https://harrix.dev/ru/articles/2018/install-latex/ --> прочитайте, если надо, про установку всех нужных программ для работы с LaTeX.
+В статье [Установка и настройка программ для редактирования LaTeX файлов](https://github.com/Harrix/harrix.dev-articles-2018/blob/main/install-latex/install-latex.md)<!-- https://harrix.dev/ru/articles/2018/install-latex/ --> прочитайте, если надо, про установку всех нужных программ для работы с LaTeX.
 
 ## Примеры
 
