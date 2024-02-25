@@ -12,8 +12,16 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2014/blob/main/i
 permalink: https://harrix.dev/ru/articles/2014/install-eclipse-java/
 lang: ru
 attribution:
-  - { author: Eclipse Foundation, author-site: "http://www.eclipse.org/", license: Public
-        domain, license-url: "https://en.wikipedia.org/wiki/Public_domain", permalink: "https://commons.wikimedia.org/wiki/File:Eclipse-Luna-Logo.svg", permalink-date: 2019-06-07, name: Eclipse-Luna-Logo.svg }
+  - {
+      author: Eclipse Foundation,
+      author-site: "http://www.eclipse.org/",
+      license: Public
+        domain,
+      license-url: "https://en.wikipedia.org/wiki/Public_domain",
+      permalink: "https://commons.wikimedia.org/wiki/File:Eclipse-Luna-Logo.svg",
+      permalink-date: 2019-06-07,
+      name: Eclipse-Luna-Logo.svg,
+    }
 ---
 
 # Установка Eclipse в Windows
