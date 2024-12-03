@@ -91,7 +91,7 @@ _Рисунок 8 — Папка с EXE файлом_
 
 Теперь можно в командной строке вызвать `windeployqt` с указанием папки с EXE файлом:
 
-```powershell
+```cmd
 windeployqt D:\Harrix\Projects\Qt\untitled\_build\release
 ```
 
@@ -115,13 +115,13 @@ _Рисунок 11 — Папка с недостающими DLL_
 
 Для компилятора Visual Studio алгоритм тот же, но лучше еще добавить параметр `--compiler-runtime`, например:
 
-```powershell
+```cmd
 windeployqt --compiler-runtime D:\Harrix\Projects\Qt\untitled\_build\release
 ```
 
 Если у вас приложение с использованием QML, то нужен параметр `--qmldir` с указанием папки, где хранятся `.qml` файлы:
 
-```powershell
+```cmd
 windeployqt --compiler-runtime --qmldir D:\Harrix\Projects\Qt\untitled D:\Harrix\Projects\Qt\untitled\_build\release
 ```
 
