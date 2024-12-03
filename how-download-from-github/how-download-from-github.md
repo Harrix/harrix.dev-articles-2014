@@ -11,17 +11,9 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2014/blob/main/h
 permalink: https://harrix.dev/ru/articles/2014/how-download-from-github/
 lang: ru
 attribution:
-  - {
-      author: GitHub,
-      author-site: "https://github.com",
-      comment: Use the Octocat or
-        GitHub logo in a blog post or news article about GitHub,
-      license-url: "https://github.com/logos",
-      permalink: "https://github.com/logos",
-      permalink-date: 2019-03-18,
-      name: GitHub
-        Logo,
-    }
+  - { author: GitHub, author-site: "https://github.com", comment: Use the Octocat or
+        GitHub logo in a blog post or news article about GitHub, license-url: "https://github.com/logos", permalink: "https://github.com/logos", permalink-date: 2019-03-18, name: GitHub
+        Logo }
 ---
 
 # Как скачать файлы с GitHub
@@ -146,6 +138,6 @@ _Рисунок 13 — Создание форка проекта_
 
 А вообще лучше клонировать проекты себе на компьютер через консоль. Например, так:
 
-```console
+```powershell
 git clone https://github.com/plotly/plotly.js.git
 ```
