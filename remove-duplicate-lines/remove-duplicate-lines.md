@@ -1,7 +1,11 @@
 ---
 date: 2014-10-19
-categories: [it, program]
-tags: [Notepad++, Текстовой редактор]
+categories:
+  - it
+  - program
+tags:
+  - Notepad++
+  - Текстовой редактор
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

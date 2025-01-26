@@ -1,7 +1,11 @@
 ---
 date: 2014-03-14
-categories: [it, photo]
-tags: [Time-lapse, Nikon]
+categories:
+  - it
+  - photo
+tags:
+  - Time-lapse
+  - Nikon
 related-id: time-lapse
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com

@@ -1,7 +1,11 @@
 ---
 date: 2014-07-17
-categories: [it, photo]
-tags: [Обработка фотографии, Adobe Pixel Bender Toolkit]
+categories:
+  - it
+  - photo
+tags:
+  - Обработка фотографии
+  - Adobe Pixel Bender Toolkit
 download: https://github.com/Harrix/harrix.dev-articles-2014/raw/main/droste-effect/files/droste.zip
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com

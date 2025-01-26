@@ -1,7 +1,10 @@
 ---
 date: 2014-07-07
-categories: [reflections]
-tags: [Предрассудки, Рассуждения]
+categories:
+  - reflections
+tags:
+  - Предрассудки
+  - Рассуждения
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

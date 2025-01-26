@@ -1,7 +1,12 @@
 ---
 date: 2014-04-22
-categories: [it, programming]
-tags: [Qt, Таблица, C++]
+categories:
+  - it
+  - programming
+tags:
+  - Qt
+  - Таблица
+  - C++
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

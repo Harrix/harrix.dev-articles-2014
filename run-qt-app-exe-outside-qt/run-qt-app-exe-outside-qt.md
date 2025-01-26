@@ -1,7 +1,11 @@
 ---
 date: 2014-01-28
-categories: [it, programming]
-tags: [Qt, MinGW]
+categories:
+  - it
+  - programming
+tags:
+  - Qt
+  - MinGW
 related-id: start-qt
 update: 2018
 author: Anton Sergienko

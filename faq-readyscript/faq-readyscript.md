@@ -1,7 +1,12 @@
 ---
 date: 2014-07-17
-categories: [it, web]
-tags: [CMS, ReadyScript 2, Интернет-магазин]
+categories:
+  - it
+  - web
+tags:
+  - CMS
+  - ReadyScript 2
+  - Интернет-магазин
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

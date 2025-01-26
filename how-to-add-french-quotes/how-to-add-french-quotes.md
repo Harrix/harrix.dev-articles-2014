@@ -1,7 +1,10 @@
 ---
 date: 2014-05-25
-categories: [it, program]
-tags: [Punto Switcher]
+categories:
+  - it
+  - program
+tags:
+  - Punto Switcher
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

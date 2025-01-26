@@ -1,7 +1,14 @@
 ---
 date: 2014-05-06
-categories: [it, programming]
-tags: [Qt, CSV, Таблица, C++, Работа с файлами]
+categories:
+  - it
+  - programming
+tags:
+  - Qt
+  - CSV
+  - Таблица
+  - C++
+  - Работа с файлами
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -10,15 +17,13 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2014/blob/main/s
 permalink: https://harrix.dev/ru/articles/2014/save-from-qtableview-to-csv/
 lang: ru
 attribution:
-  - {
-      author: Christlich Soziale Volkspartei,
-      author-site: "https://de.wikipedia.org/wiki/Christlich_Soziale_Volkspartei",
-      license: Public domain,
-      license-url: "https://en.wikipedia.org/wiki/Public_domain",
-      permalink: "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:CSV_Logo.svg",
-      permalink-date: 2019-03-24,
-      name: CSV Logo.svg,
-    }
+  - author: Christlich Soziale Volkspartei
+    author-site: https://de.wikipedia.org/wiki/Christlich_Soziale_Volkspartei
+    license: Public domain
+    license-url: https://en.wikipedia.org/wiki/Public_domain
+    permalink: https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:CSV_Logo.svg
+    permalink-date: 2019-03-24
+    name: CSV Logo.svg
 ---
 
 # Как сохранять из QTableView данные в CSV формат

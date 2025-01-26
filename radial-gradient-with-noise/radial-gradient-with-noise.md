@@ -1,7 +1,13 @@
 ---
 date: 2014-11-10
-categories: [it, web]
-tags: [CSS, HTML, SVG, Градиент]
+categories:
+  - it
+  - web
+tags:
+  - CSS
+  - HTML
+  - SVG
+  - Градиент
 demo: https://codepen.io/Harrix/pen/ZqbpYb
 update: 2018-09
 author: Anton Sergienko

@@ -1,7 +1,13 @@
 ---
 date: 2014-04-09
-categories: [it, photo]
-tags: [Time-lapse, Adobe After Effects, VirtualDub, Deflicker]
+categories:
+  - it
+  - photo
+tags:
+  - Time-lapse
+  - Adobe After Effects
+  - VirtualDub
+  - Deflicker
 related-id: time-lapse
 update: 2018
 author: Anton Sergienko

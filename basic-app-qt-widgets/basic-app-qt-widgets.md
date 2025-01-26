@@ -1,7 +1,11 @@
 ---
 date: 2014-01-28
-categories: [it, programming]
-tags: [Qt, C++]
+categories:
+  - it
+  - programming
+tags:
+  - Qt
+  - C++
 related-id: start-qt
 download: https://github.com/Harrix/harrix.dev-articles-2014/raw/main/basic-app-qt-widgets/files/example.zip
 author: Anton Sergienko

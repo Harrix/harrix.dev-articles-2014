@@ -1,7 +1,13 @@
 ---
 date: 2014-05-08
-categories: [it, programming]
-tags: [Qt, MP3, C++, Работа с файлами]
+categories:
+  - it
+  - programming
+tags:
+  - Qt
+  - MP3
+  - C++
+  - Работа с файлами
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

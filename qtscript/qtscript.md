@@ -1,7 +1,13 @@
 ---
 date: 2014-05-19
-categories: [it, programming]
-tags: [Qt, Интерпретатор, C++, QtScript]
+categories:
+  - it
+  - programming
+tags:
+  - Qt
+  - Интерпретатор
+  - C++
+  - QtScript
 latex: true
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com

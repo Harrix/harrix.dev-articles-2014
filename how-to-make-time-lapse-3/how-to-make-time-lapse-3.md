@@ -1,7 +1,11 @@
 ---
 date: 2014-03-16
-categories: [it, photo]
-tags: [Time-lapse, Adobe Premiere]
+categories:
+  - it
+  - photo
+tags:
+  - Time-lapse
+  - Adobe Premiere
 related-id: time-lapse
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com

@@ -1,7 +1,11 @@
 ---
 date: 2014-04-17
-categories: [it, program]
-tags: [Mathcad, Математика]
+categories:
+  - it
+  - program
+tags:
+  - Mathcad
+  - Математика
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

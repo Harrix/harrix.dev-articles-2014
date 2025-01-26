@@ -1,7 +1,11 @@
 ---
 date: 2014-12-14
-categories: [it, hardware]
-tags: [Dell, Ноутбук]
+categories:
+  - it
+  - hardware
+tags:
+  - Dell
+  - Ноутбук
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -10,15 +14,13 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2014/blob/main/c
 permalink: https://harrix.dev/ru/articles/2014/color-in-dell-inspiron-5547/
 lang: ru
 attribution:
-  - {
-      author: Dell,
-      author-site: "https://www.dell.com/",
-      license: Public domain,
-      license-url: "https://en.wikipedia.org/wiki/Public_domain",
-      permalink: "https://commons.wikimedia.org/wiki/File:Dell_Logo.svg",
-      permalink-date: 2019-06-06,
-      name: Dell Logo.svg,
-    }
+  - author: Dell
+    author-site: https://www.dell.com/
+    license: Public domain
+    license-url: https://en.wikipedia.org/wiki/Public_domain
+    permalink: https://commons.wikimedia.org/wiki/File:Dell_Logo.svg
+    permalink-date: 2019-06-06
+    name: Dell Logo.svg
 ---
 
 # Настройка цвета в Dell Inspiron 5547
