@@ -36,7 +36,7 @@ lang: ru
 
 </details>
 
-Для версии Qt под компилятор Visual Studio статья [Запуск Qt приложений под Visual Studio .exe вне Qt Creator](https://github.com/Harrix/harrix.dev-articles-2016/blob/main/run-qt-vs-app-exe-outside-qt/run-qt-vs-app-exe-outside-qt.md) | [🡥](https://harrix.dev/ru/articles/2016/run-qt-vs-app-exe-outside-qt/).
+Для версии Qt под компилятор Visual Studio статья [Запуск Qt приложений под Visual Studio .exe вне Qt Creator](https://github.com/Harrix/harrix.dev-articles-2016/blob/main/run-qt-vs-app-exe-outside-qt/run-qt-vs-app-exe-outside-qt.md) | [↗️](https://harrix.dev/ru/articles/2016/run-qt-vs-app-exe-outside-qt/).
 
 Тут расскажу о самом механизме нахождения DLL, так как Qt активно развивается и регулярно новые версии выпускает, и под каждую версию писать статью о новом наборе DLL накладно.
 
@@ -44,7 +44,7 @@ lang: ru
 
 ## Проблема
 
-Допустим, мы создали [базовое приложение Qt Widgets](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/basic-app-qt-widgets/basic-app-qt-widgets.md) | [🡥](https://harrix.dev/ru/articles/2014/basic-app-qt-widgets/).
+Допустим, мы создали [базовое приложение Qt Widgets](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/basic-app-qt-widgets/basic-app-qt-widgets.md) | [↗️](https://harrix.dev/ru/articles/2014/basic-app-qt-widgets/).
 
 При запуске приложения в самом Qt Creator (при нажатии на зеленую стрелку, или же через меню, или же иным способом) мы видим наше приложение:
 

@@ -66,4 +66,4 @@ _Рисунок 6 — Запуск съемки_
 
 Вот и всё! После этой нехитрой процедуры у вас наберется определенный набор фотографий.
 
-В [Как сделать Time-lapse видео. Часть 2 — Обработка файлов](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/how-to-make-time-lapse-2/how-to-make-time-lapse-2.md) | [🡥](https://harrix.dev/ru/articles/2014/how-to-make-time-lapse-2/) части будем обрабатывать фотографии в Lightroom.
+В [Как сделать Time-lapse видео. Часть 2 — Обработка файлов](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/how-to-make-time-lapse-2/how-to-make-time-lapse-2.md) | [↗️](https://harrix.dev/ru/articles/2014/how-to-make-time-lapse-2/) части будем обрабатывать фотографии в Lightroom.

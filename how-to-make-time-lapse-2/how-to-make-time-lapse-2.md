@@ -26,7 +26,7 @@ lang: ru
 
 **Что потребуется**: снимки, Lightroom.
 
-В [Как сделать Time-lapse видео. Часть 1 — Сбор материала](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/how-to-make-time-lapse-1/how-to-make-time-lapse-1.md) | [🡥](https://harrix.dev/ru/articles/2014/how-to-make-time-lapse-1/) мы получили наши снимки. Теперь надо их обработать, перед тем, как будем их соединять в видео.
+В [Как сделать Time-lapse видео. Часть 1 — Сбор материала](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/how-to-make-time-lapse-1/how-to-make-time-lapse-1.md) | [↗️](https://harrix.dev/ru/articles/2014/how-to-make-time-lapse-1/) мы получили наши снимки. Теперь надо их обработать, перед тем, как будем их соединять в видео.
 
 Итак, у нас есть множество фотографий (у меня получилось 250):
 
@@ -176,4 +176,4 @@ _Рисунок 25 — Выбор качества jpg_
 
 _Рисунок 26 — Экспортируемые фотографии_
 
-В Lightroom мы закончили работу! В [Как сделать Time-lapse видео. Часть 3 — Простая сборка видео](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/how-to-make-time-lapse-3/how-to-make-time-lapse-3.md) | [🡥](https://harrix.dev/ru/articles/2014/how-to-make-time-lapse-3/) будем уже собирать видео.
+В Lightroom мы закончили работу! В [Как сделать Time-lapse видео. Часть 3 — Простая сборка видео](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/how-to-make-time-lapse-3/how-to-make-time-lapse-3.md) | [↗️](https://harrix.dev/ru/articles/2014/how-to-make-time-lapse-3/) будем уже собирать видео.

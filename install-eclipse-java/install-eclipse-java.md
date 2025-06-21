@@ -48,7 +48,7 @@ attribution:
 
 ## Установка JDK
 
-Вначале необходимо установить **JDK**. Всё просто, но если есть вопросы, то подробно можно узнать в статье: [Установка JDK в Windows](https://github.com/Harrix/harrix.dev-articles-2019/blob/main/install-jdk-on-windows/install-jdk-on-windows.md) | [🡥](https://harrix.dev/ru/articles/2019/install-jdk-on-windows/).
+Вначале необходимо установить **JDK**. Всё просто, но если есть вопросы, то подробно можно узнать в статье: [Установка JDK в Windows](https://github.com/Harrix/harrix.dev-articles-2019/blob/main/install-jdk-on-windows/install-jdk-on-windows.md) | [↗️](https://harrix.dev/ru/articles/2019/install-jdk-on-windows/).
 
 ## Скачивание Eclipse
 

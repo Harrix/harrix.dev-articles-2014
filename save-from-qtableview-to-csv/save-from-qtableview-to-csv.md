@@ -78,4 +78,4 @@ _Рисунок 1 — Таблица с данными в Qt_
 
 _Рисунок 2 — Открытый CSV файл_
 
-В статье [Как вывести данные в QTableView в Qt](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/output-data-to-qtableview/output-data-to-qtableview.md) | [🡥](https://harrix.dev/ru/articles/2014/output-data-to-qtableview/) узнаете, как добавлять данные в QTableView.
+В статье [Как вывести данные в QTableView в Qt](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/output-data-to-qtableview/output-data-to-qtableview.md) | [↗️](https://harrix.dev/ru/articles/2014/output-data-to-qtableview/) узнаете, как добавлять данные в QTableView.
